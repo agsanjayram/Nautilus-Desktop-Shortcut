@@ -50,7 +50,7 @@ curl -fsSL https://raw.githubusercontent.com/agsanjayram/Nautilus-Desktop-Shortc
 
 ## 🐧 Supported Systems
 
-- Ubuntu **20.04+**
+- Ubuntu **24.04+**
 - GNOME Shell
 - Nautilus (Files)
 
